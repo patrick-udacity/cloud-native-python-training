@@ -1,0 +1,1 @@
+A self training course using Cloud Native Python by Packt Publishing
